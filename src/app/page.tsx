@@ -2,6 +2,12 @@
 
 export default function Home() {
   return (
-    <p>aaaa</p>
+    <main
+      style={{
+        width: '100vw',
+        height: '100vh',
+        backgroundColor: "#aaa",
+      }}
+    ></main>
   );
 }
